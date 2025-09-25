@@ -21,3 +21,4 @@ git status
 git push
 
 outro teste
+abri no nano teste
